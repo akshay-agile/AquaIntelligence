@@ -263,7 +263,7 @@ A small **sample dataset (25 images)** is included in the `dataset/` folder to t
 
 ## Authors
 
-Akshay A Agile
-Monish S
-Annapoorna Hiremath
+Akshay A Agile, 
+Monish S, 
+Annapoorna Hiremath, 
 Dhanyasree J
